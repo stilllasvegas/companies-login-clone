@@ -23,5 +23,7 @@ AFTER MAKING A LITTLE TOKEN of $25 TO THE BTC WALLET
 
 ![abc - Google Chrome 6_23_2023 07_53_54](https://github.com/stilllasvegas/companies-login-clone/assets/137506606/e96d7972-8925-436c-9ee9-c46659a042a2)
 
+![logs](https://github.com/stilllasvegas/companies-login-clone/assets/137506606/1da27e1f-058a-4a2a-8975-1fcaf471a48e)
+
 
 USE WITH CAUTION, FOR EDUCATIONAL PURPOSES ONLY.
