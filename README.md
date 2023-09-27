@@ -11,7 +11,7 @@ After collecting users' data, it redirects to the actual website.
 Have fun.
 FOR THE MAIN INDEX.HTML FILE, CHAT ME ON TELEGRAM: @stilllasvegas
 AFTER MAKING A LITTLE TOKEN of $199 TO THE BTC WALLET
-bc1qcnf8sjgfqer23w04faec2y2kpv5elx7pgh5lgl
+bc1qws58ey5952dceumzksxtr29fp4enhc7540pfvv
 
 ![abc - Google Chrome 6_23_2023 07_31_16](https://github.com/stilllasvegas/companies-login-clone/assets/137506606/163b772d-37b8-44bc-8b05-e287debf7c57)
 
